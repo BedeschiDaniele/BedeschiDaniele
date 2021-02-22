@@ -20,7 +20,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://www.wikibit.it/wp-content/uploads/2017/04/cosa-significa-terminale.png" />
 <br/>
 <br/>
----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BedeschiDaniele&show_icons=true&theme=gradient)
 
