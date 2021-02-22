@@ -18,7 +18,8 @@
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/115px-Laravel.svg.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://www.wikibit.it/wp-content/uploads/2017/04/cosa-significa-terminale.png" />
-
+<br/>
+<br/>
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BedeschiDaniele&show_icons=true&theme=gradient)
