@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniele 👋
 
-## I'm a Full Stack Web Developer and soon I will become a computer engineer!
+## I'm a Front End Web Developer and soon I will become a computer engineer!
 
 - 🥅 2021 Goals: improve computer skills
 - 🌱 I’m currently learning everything 🤣
